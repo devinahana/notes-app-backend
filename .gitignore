@@ -129,6 +129,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# Key
-notes-api-webserver.pem
+# SSH key
+ssh-key/
 
